@@ -15,7 +15,7 @@ Added styling on a div that surrounds our square.
 Used flex and wrap, along with setting width
 Centered both gameboard and header
 Passed the value of board to our square component to show question mark
-Styled question mark to be larger and centered
+Styled question mark to be larger and centered.
 ✅
 
 *WHERE EVERYONE ELSE PUSH/PULLED*
